@@ -1,0 +1,34 @@
+{
+    "variables":[
+	    {
+            "name":"PosStart",
+            "description":"Start",
+            "type":"UInt32",
+            "initial":"500"
+        },
+        {
+            "name":"PosKerze1",
+            "description":"Kerze1",
+            "type":"UInt32",
+            "initial":"1000"
+        },
+        {
+            "name":"PosKerze2",
+            "description":"Kerze2",
+            "type":"UInt32",
+            "initial":"1500"
+        },
+	    {
+            "name":"PosKerze3",
+            "description":"Kerze3",
+            "type":"UInt32",
+            "initial":"2200"
+        },
+	    {
+            "name":"PosKerze4",
+            "description":"Kerze4",
+            "type":"UInt32",
+            "initial":"2700"
+        }
+    ]
+}
